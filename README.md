@@ -1,4 +1,4 @@
-### ELOQUENT JAVASCRIPT - 3rd - FR
+### ELOQUENT JAVASCRIPT - 3rd - fr
 
 ##### Traduction fr
 
