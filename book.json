@@ -6,7 +6,12 @@
     "structure": {
         "readme": "README.md"
     },
-    "plugins": ["js-console"],
+    "plugins": ["js-console", "github"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/js-appsmaker/eloquentJS-3rd_fr"
+        }
+    },
     "styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",
