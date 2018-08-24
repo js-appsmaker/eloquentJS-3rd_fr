@@ -6,10 +6,15 @@
     "structure": {
         "readme": "README.md"
     },
-    "plugins": ["js-console", "github"],
+    "plugins": ["js-console", "github", "offline", "page-numbering"],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/js-appsmaker/eloquentJS-3rd_fr"
+        },
+        "page-numbering": {
+            "skipReadme": false,
+            "chapterFormat": "Chapter #chapno#&nbsp;&nbsp;&nbsp;#title# ||| #chapno#&nbsp;&nbsp;&nbsp;#title#",
+            "forceMultipleParts": false
         }
     },
     "styles": {

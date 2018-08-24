@@ -10,6 +10,7 @@
         "gitbook": ">=3.2.3"
     },
     "dependencies": {
+        "ebook-convert": "^2.0.1",
         "gitbook-cli": "2.3.2",
         "gitbook-plugin-js-console": "^1.4.2"
     }
