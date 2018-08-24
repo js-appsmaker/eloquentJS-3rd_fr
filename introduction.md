@@ -20,4 +20,3 @@ La programmation se fait avec des langages de programmation. Un langage de progr
 
 Ce livre tentera de vous familiariser avec ce langage pour faire des choses utiles et amusantes avec elle.
 
-
